@@ -1,0 +1,2763 @@
+﻿[
+ {
+   "FIELD1": "items__id",
+   "FIELD2": "items__name",
+   "FIELD3": "items__price"
+ },
+ {
+   "FIELD1": "247792571",
+   "FIELD2": "PHILIPS Rasoirs selectionnes",
+   "FIELD3": "27.99"
+ },
+ {
+   "FIELD1": "247792573",
+   "FIELD2": "GILLETTE Lames de rasoirs selectionnees",
+   "FIELD3": "26.99"
+ },
+ {
+   "FIELD1": "247792575",
+   "FIELD2": "JUST FOR MEN, CONTROL GX Colorations pour cheveux",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "247792579",
+   "FIELD2": "CW BEGGS AND SONS Produits selectionnes",
+   "FIELD3": "10.99"
+ },
+ {
+   "FIELD1": "247792581",
+   "FIELD2": "EDGE, GILLETTE Gels, mousses e raser selectionnes",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "247792583",
+   "FIELD2": "GILLETTE Rasoirs jetables selectionnes",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "247792585",
+   "FIELD2": "SCHICK Rasoirs jetables selectionnes",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "247792587",
+   "FIELD2": "NEUTROGENA MEN Gamme de produits selectionnes",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "247792589",
+   "FIELD2": "ST. IVES ou AXE Produits selectionnes",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "247792591",
+   "FIELD2": "CAPRINA Produits selectionnes",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "247792595",
+   "FIELD2": "CUREL ou NIVEA Produits selectionnes",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "247792599",
+   "FIELD2": "L'OREAL Produits selectionnes",
+   "FIELD3": "10.99"
+ },
+ {
+   "FIELD1": "247792604",
+   "FIELD2": "GARNIER OMBRELLE Produits selectionnes",
+   "FIELD3": "19.99"
+ },
+ {
+   "FIELD1": "247792608",
+   "FIELD2": "TENA Produits selectionnes",
+   "FIELD3": "15.99"
+ },
+ {
+   "FIELD1": "247792612",
+   "FIELD2": "COLGATE Produits selectionnes",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "247792827",
+   "FIELD2": "LOReAL Produits selectionnes",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "247792829",
+   "FIELD2": "REVLON Produits selectionnes",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "247792831",
+   "FIELD2": "AVEENO Produits selectionnes",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "247792833",
+   "FIELD2": "HERTEL, SELECTION Produits nettoyants selectionnes",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "247792835",
+   "FIELD2": "ALWAYS, TAMPAX Produit hygiene feminine",
+   "FIELD3": "10"
+ },
+ {
+   "FIELD1": "247792837",
+   "FIELD2": "NEUTROGENA Cremes pour les mains selectionnes",
+   "FIELD3": "4.88"
+ },
+ {
+   "FIELD1": "247792839",
+   "FIELD2": "ATTITUDE Nettoyants selectionnes",
+   "FIELD3": "10"
+ },
+ {
+   "FIELD1": "247792841",
+   "FIELD2": "LINDT Chocolats selectionnes",
+   "FIELD3": "3.49"
+ },
+ {
+   "FIELD1": "247792843",
+   "FIELD2": "LINDT Chocolats selectionnes",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "247792845",
+   "FIELD2": "VAL NATURE Barres tendres selectionnees ou OLD SPICE, SECRET, GILETTE, RIGHT GUARD Antisudorifiques, desodorisants selectionnes",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "247792910",
+   "FIELD2": "RESOLVE Detachants pour la lessive selectionnes",
+   "FIELD3": "7"
+ },
+ {
+   "FIELD1": "247792915",
+   "FIELD2": "VIM Nettoyants selectionnes",
+   "FIELD3": "7"
+ },
+ {
+   "FIELD1": "247792920",
+   "FIELD2": "ENERGIZER Piles selectionnees",
+   "FIELD3": "12.99"
+ },
+ {
+   "FIELD1": "247792924",
+   "FIELD2": "PINE-SOL, TILEX",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "247792927",
+   "FIELD2": "WHISKAS TEMPTATIONS Geteries pour chats",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "247792931",
+   "FIELD2": "SELECTION Litiere pour chat",
+   "FIELD3": "5.49"
+ },
+ {
+   "FIELD1": "247792934",
+   "FIELD2": "SCRUBBING BUBBLES Nettoyants selectionnes",
+   "FIELD3": "2.79"
+ },
+ {
+   "FIELD1": "247792936",
+   "FIELD2": "SELECTION Plumeaux de rechange",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "247792938",
+   "FIELD2": "COOKINA Feuilles de cuisson reutilisables",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "247792940",
+   "FIELD2": "DOG CHOW Nourriture pour chiens 2 kg",
+   "FIELD3": "5.49"
+ },
+ {
+   "FIELD1": "247792942",
+   "FIELD2": "BENEFUL Nourriture pour chiens",
+   "FIELD3": "5.49"
+ },
+ {
+   "FIELD1": "247792944",
+   "FIELD2": "AIR WICK Purificateurs d'air selectionnes",
+   "FIELD3": "3.49"
+ },
+ {
+   "FIELD1": "247792946",
+   "FIELD2": "GLADE Purificateurs d'air selectionnes",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "247792949",
+   "FIELD2": "SELECTION Sacs e ordures pour la cuisine",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "247792952",
+   "FIELD2": "MILK-BONE Geteries pour chiens selectionnees",
+   "FIELD3": "3.5"
+ },
+ {
+   "FIELD1": "247792957",
+   "FIELD2": "Impression photo",
+   "FIELD3": "0.15"
+ },
+ {
+   "FIELD1": "247793058",
+   "FIELD2": "LA ROCHE-POSAY Produits selectionnes",
+   "FIELD3": "10"
+ },
+ {
+   "FIELD1": "247793060",
+   "FIELD2": "JOUVIANCE Hydractiv Creme Hydrante Ultra-Reparatrice",
+   "FIELD3": "40"
+ },
+ {
+   "FIELD1": "247793062",
+   "FIELD2": "BIODERMA Nourrit et protege",
+   "FIELD3": "9.95"
+ },
+ {
+   "FIELD1": "247793064",
+   "FIELD2": "VICHY Produits selectionnes",
+   "FIELD3": "52.95"
+ },
+ {
+   "FIELD1": "247793066",
+   "FIELD2": "BIODERMA Produits selectionnes",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "247793068",
+   "FIELD2": "BIODERMA Produits selectionnes",
+   "FIELD3": "23.99"
+ },
+ {
+   "FIELD1": "247793070",
+   "FIELD2": "ZORAH Produits selectionnes",
+   "FIELD3": "59.98"
+ },
+ {
+   "FIELD1": "247793072",
+   "FIELD2": "PHYTO Produits selectionnes",
+   "FIELD3": "48"
+ },
+ {
+   "FIELD1": "247793074",
+   "FIELD2": "URIAGE OU AVeNE Produits selectionnes",
+   "FIELD3": "31.99"
+ },
+ {
+   "FIELD1": "247793247",
+   "FIELD2": "ADVIL Ibuprofene pour enfants",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "247793249",
+   "FIELD2": "ANTIPHLOGISTINE Analgesiques locaux selectionne",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "247793251",
+   "FIELD2": "CANESTEN Creme de clotrimazole Produits selectionnes",
+   "FIELD3": "15.99"
+ },
+ {
+   "FIELD1": "247793253",
+   "FIELD2": "NICORETTE Gommes pour aider e cesser de fumer",
+   "FIELD3": "10.99"
+ },
+ {
+   "FIELD1": "247793255",
+   "FIELD2": "PEDIALYTE Maintien de l'equilibre electrolytique",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "247793257",
+   "FIELD2": "PEPTO-BISMOL Antiacide",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "247793259",
+   "FIELD2": "VISINE Gouttes selectionnees pour les yeux",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "247793261",
+   "FIELD2": "UNISOM Aide-sommeil",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "247793263",
+   "FIELD2": "ASPIRIN A.A.S. enrobe, faible dose",
+   "FIELD3": "16.99"
+ },
+ {
+   "FIELD1": "247793265",
+   "FIELD2": "ATASOL FORTE Acetaminophene 500 mg 100 comprimes ou caplets",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "247793267",
+   "FIELD2": "MIDOL Soulagement des multiples symptemes du SPM",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "247793269",
+   "FIELD2": "MATERNA Multivitamines prenatales",
+   "FIELD3": "16.99"
+ },
+ {
+   "FIELD1": "247793271",
+   "FIELD2": "SELECTION Soulagement des bruleres d'estomac Ranitidine",
+   "FIELD3": "3.49"
+ },
+ {
+   "FIELD1": "247793273",
+   "FIELD2": "SELECTION Soulagement de la diarrhee Loperamide",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "247793275",
+   "FIELD2": "SELECTION Pour le soulagement de la constipation Bisacodyl",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "247793277",
+   "FIELD2": "SELECTION Onguent ou creme antibiotique",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "247793380",
+   "FIELD2": "DANS UN JARDIN Produits selectionnes",
+   "FIELD3": "19.95"
+ },
+ {
+   "FIELD1": "247793382",
+   "FIELD2": "Silk'n Produits selectionnes",
+   "FIELD3": "269.99"
+ },
+ {
+   "FIELD1": "247793384",
+   "FIELD2": "Silk'n Produits selectionnes",
+   "FIELD3": "12.99"
+ },
+ {
+   "FIELD1": "247793386",
+   "FIELD2": "MERCEDES-BENZ ROSE Eaux de toilette et eaux de parfum pour hommes et femmes selectionnees",
+   "FIELD3": "85"
+ },
+ {
+   "FIELD1": "247793388",
+   "FIELD2": "MERCEDES-BENZ MAN Eaux de toilette et eaux de parfum pour hommes et femmes selectionnes",
+   "FIELD3": "85"
+ },
+ {
+   "FIELD1": "247793390",
+   "FIELD2": "AZZARO CHROME Eaux de toilette et eaux de perfum pour hommes et femmes selectionnees",
+   "FIELD3": "72"
+ },
+ {
+   "FIELD1": "247793392",
+   "FIELD2": "AZZARO CHROME PURE Eaux de toilette et eaux de parfum pour hommes et femmes selectionnees",
+   "FIELD3": "72"
+ },
+ {
+   "FIELD1": "247793394",
+   "FIELD2": "CABOTINE Eaux de toilette et eaux de parfrum pour hommes et femmes selectionnees",
+   "FIELD3": "12.99"
+ },
+ {
+   "FIELD1": "247793396",
+   "FIELD2": "CK ETERNITY HOMME Eaux de toilette et eaux de parfum pour hommes et femmes selectionnes",
+   "FIELD3": "75"
+ },
+ {
+   "FIELD1": "247793398",
+   "FIELD2": "CK ETERNITY FEMME AZZARO CHROME Eaux de toilette et eaux de perfum pour hommes et femmes selectionnees",
+   "FIELD3": "106"
+ },
+ {
+   "FIELD1": "247793488",
+   "FIELD2": "BENTASIL Pastilles",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "247793490",
+   "FIELD2": "JAMIESON Anti rhume Produits naturels selectionnes",
+   "FIELD3": "12.99"
+ },
+ {
+   "FIELD1": "247793492",
+   "FIELD2": "IRRESISTIBLES Mouchoirs",
+   "FIELD3": "0.99"
+ },
+ {
+   "FIELD1": "247793496",
+   "FIELD2": "BENYLIN Medicaments pour aider e soulager les symptemes du rhume, sinus, toux, anti-mucosite",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "247793498",
+   "FIELD2": "ADVIL Medicament contre le rhume et sinus, rhume et grippe",
+   "FIELD3": "10.99"
+ },
+ {
+   "FIELD1": "247793500",
+   "FIELD2": "TYLENOL COMPLET Medicament pour soulager les symptemes du rhume, la toux et la grippe, jour ou nuit",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "247793502",
+   "FIELD2": "BUCKLEY Sirop selectionnes contre les symptemes du rhume et de la grippe",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "247793504",
+   "FIELD2": "LAMBERT Sirop",
+   "FIELD3": "6.49"
+ },
+ {
+   "FIELD1": "247793506",
+   "FIELD2": "VICKS ZZZQUIL Aide-sommeil nocturne",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "247795066",
+   "FIELD2": "ENSURE Produits selectionnes",
+   "FIELD3": "8.88"
+ },
+ {
+   "FIELD1": "247795068",
+   "FIELD2": "Sponge Towels Produits selectionnes",
+   "FIELD3": "2.88"
+ },
+ {
+   "FIELD1": "247795070",
+   "FIELD2": "GARNIER Produits selectionnes",
+   "FIELD3": "2.88"
+ },
+ {
+   "FIELD1": "247795072",
+   "FIELD2": "SELECTION Produits selectionnes",
+   "FIELD3": "2.88"
+ },
+ {
+   "FIELD1": "247795074",
+   "FIELD2": "KRAFT Produits selectionnes",
+   "FIELD3": "2.88"
+ },
+ {
+   "FIELD1": "247795076",
+   "FIELD2": "SELECTION Produits selectionnes",
+   "FIELD3": "1.88"
+ },
+ {
+   "FIELD1": "247795078",
+   "FIELD2": "SELECTION Ultra Clean-Net Produits selectionnes",
+   "FIELD3": "1.88"
+ },
+ {
+   "FIELD1": "247795080",
+   "FIELD2": "DOVE Produits selectionnes",
+   "FIELD3": "1.88"
+ },
+ {
+   "FIELD1": "247795082",
+   "FIELD2": "ESKA Produits selectionnes",
+   "FIELD3": "1.88"
+ },
+ {
+   "FIELD1": "247795084",
+   "FIELD2": "LECLERC Produits selectionnes",
+   "FIELD3": "1.88"
+ },
+ {
+   "FIELD1": "247795086",
+   "FIELD2": "CASHMERE Produits selectionnes",
+   "FIELD3": "4.88"
+ },
+ {
+   "FIELD1": "247795088",
+   "FIELD2": "POLIDENT Produits selectionnes",
+   "FIELD3": "3.88"
+ },
+ {
+   "FIELD1": "247795090",
+   "FIELD2": "POLIGRIP Produits selectionnes",
+   "FIELD3": "3.88"
+ },
+ {
+   "FIELD1": "247795092",
+   "FIELD2": "SENSODYNE Produits selectionnes",
+   "FIELD3": "3.88"
+ },
+ {
+   "FIELD1": "247795094",
+   "FIELD2": "Aquafresh Produits selectionnes",
+   "FIELD3": "0.88"
+ },
+ {
+   "FIELD1": "247795096",
+   "FIELD2": "ESKA Produits selectionnes",
+   "FIELD3": "0.88"
+ },
+ {
+   "FIELD1": "247795370",
+   "FIELD2": "PICABOO Detersif, assouplisseur e lessive pour bebes",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "247795372",
+   "FIELD2": "SELECTION Suspension pour nourrissons Acetaminophene",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "247795374",
+   "FIELD2": "BANANA BOAT ecrans solaires selectionnes",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "247795376",
+   "FIELD2": "KERI Cremes pour le corps selectionnes",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "247795378",
+   "FIELD2": "CADBURY Barres de chocolat",
+   "FIELD3": "0.99"
+ },
+ {
+   "FIELD1": "247795380",
+   "FIELD2": "MONT-BEC, MENTOS Bonbons selectionnes",
+   "FIELD3": "0.99"
+ },
+ {
+   "FIELD1": "247795382",
+   "FIELD2": "GOODNITES Trousse de depart qui comprend deux paires de sous-vetements et cinq doublures absorbantes",
+   "FIELD3": "21.99"
+ },
+ {
+   "FIELD1": "247795384",
+   "FIELD2": "100% PETIT Nourritures pour bebes selectionnees",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "247795386",
+   "FIELD2": "BIC Rasoirs jetable selectionnes",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "247795388",
+   "FIELD2": "DEMO-CINEOL Suppositoires pour adultes ou enfants",
+   "FIELD3": "10.99"
+ },
+ {
+   "FIELD1": "247795390",
+   "FIELD2": "OVOL 180 mg Soulagement des gaz 32 comprimes",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "247795392",
+   "FIELD2": "ESENVIA Aide e soulager les symptemes de l'insuffisance veineuse chronique",
+   "FIELD3": "17.99"
+ },
+ {
+   "FIELD1": "247795394",
+   "FIELD2": "TEMPRA Gouttes d'acetaminophene pour enfants 80 mg",
+   "FIELD3": "5.29"
+ },
+ {
+   "FIELD1": "247795396",
+   "FIELD2": "ODOR EATERS Produits selectionnes",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "247795398",
+   "FIELD2": "IB GUARD Aide e soulager les douleurs abdominales et les inconforts associes au syndrome du celon irritable",
+   "FIELD3": "24.99"
+ },
+ {
+   "FIELD1": "247795400",
+   "FIELD2": "OPTI RINCE Rince-bouches anticaries selectionnes",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "247795402",
+   "FIELD2": "AQUA VELVA Produits apres-rasage selectionnes",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "247795404",
+   "FIELD2": "JOHN FRIEDA Produits pour cheveux selectionnes",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "247795406",
+   "FIELD2": "GAIN Detergents e lessive, assouplisseurs selectionnes",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "247795408",
+   "FIELD2": "LINDT Chocolats selectionnes",
+   "FIELD3": "6.49"
+ },
+ {
+   "FIELD1": "247795410",
+   "FIELD2": "DIPPITY DO Produits coiffants selectionnes",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "247796252",
+   "FIELD2": "ARM & HAMMER Dentifrices selectionnes",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "247796254",
+   "FIELD2": "ARM & HAMMER, SPINBRUSH, ORAL-B Produits dentaires selectionnes",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "247796256",
+   "FIELD2": "LISTERINE Produits dentaires selectionnes",
+   "FIELD3": "7"
+ },
+ {
+   "FIELD1": "247796260",
+   "FIELD2": "L'OReAL Soins pour le visage selectionnes",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "247796262",
+   "FIELD2": "OLAY Produits selectionnes",
+   "FIELD3": "29.99"
+ },
+ {
+   "FIELD1": "247796264",
+   "FIELD2": "SELECTION Lotions hydrantantes e l'avoine",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "247796266",
+   "FIELD2": "DIPPIDY DO Produits coiffants selectionnes",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "247796268",
+   "FIELD2": "GARNIER Produits selectionnes",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "247796270",
+   "FIELD2": "GLISS Produits capillaires selectionnes",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "247796272",
+   "FIELD2": "LE PETIT MARSEILLAIS Gels douche, savons e main selectionnes",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "247796274",
+   "FIELD2": "CONAIR Fers e friser selectionnes",
+   "FIELD3": "17.99"
+ },
+ {
+   "FIELD1": "247796276",
+   "FIELD2": "BYLY Cires depilatoires selectionnees",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "247796278",
+   "FIELD2": "SELECTION Produits hygiene feminine selectionnes",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "247796280",
+   "FIELD2": "NIVEA Baumes pour les levres selectionnes",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "247796282",
+   "FIELD2": "BIORe Produits selectionnes",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "247796284",
+   "FIELD2": "NEUTROGENA ecrans solaires selectionnes",
+   "FIELD3": "10.99"
+ },
+ {
+   "FIELD1": "247796286",
+   "FIELD2": "MAUI Produits capillaires selectionnes",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "247796288",
+   "FIELD2": "NEUTROGENA Produits selectionnes",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "247796290",
+   "FIELD2": "PLAYTEX Produits hygiene feminine selectionnes",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "247796368",
+   "FIELD2": "MAYBELLINE Produits selectionnes",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "247796374",
+   "FIELD2": "Produits selectionnes Sally Hansen",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "247796376",
+   "FIELD2": "PUPA Produits selectionnes",
+   "FIELD3": "19.99"
+ },
+ {
+   "FIELD1": "247796378",
+   "FIELD2": "ANNABELLE Produits selectionnes",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "247796380",
+   "FIELD2": "RIMMEL Produits selectionnes",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "247796382",
+   "FIELD2": "BLINC Produits selectionnes",
+   "FIELD3": "29.98"
+ },
+ {
+   "FIELD1": "247796384",
+   "FIELD2": "SCHWARZKOPF KERATIN COLOR Produits selectionnes",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "247796386",
+   "FIELD2": "LISE WATIER Produits selectionnes",
+   "FIELD3": "22"
+ },
+ {
+   "FIELD1": "247796452",
+   "FIELD2": "SELECTION Comprime anti-nausee gingembre",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "247796454",
+   "FIELD2": "SELECTION Multivitamines croquables pour enfants",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "247796456",
+   "FIELD2": "SELECTION Systeme d'entretien de lentilles",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "247796458",
+   "FIELD2": "SELECTION Pastilles",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "247796462",
+   "FIELD2": "PIERRAFEU Vitamines pour enfants",
+   "FIELD3": "17.99"
+ },
+ {
+   "FIELD1": "247796464",
+   "FIELD2": "CENTRUM Avantage, cardio, performance",
+   "FIELD3": "17.99"
+ },
+ {
+   "FIELD1": "247796466",
+   "FIELD2": "PREMIeRE RePONSE Test de grossesse",
+   "FIELD3": "10.99"
+ },
+ {
+   "FIELD1": "247796472",
+   "FIELD2": "HOLISTA RESTORATIV Creme Celadrin",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "247796474",
+   "FIELD2": "REPLENS Hydratant vaginal",
+   "FIELD3": "13.99"
+ },
+ {
+   "FIELD1": "247796476",
+   "FIELD2": "POLYSPORIN Timbres contre les feux sauvages",
+   "FIELD3": "16.99"
+ },
+ {
+   "FIELD1": "247796478",
+   "FIELD2": "PURE PROTEIN Barres proteinees",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "247796480",
+   "FIELD2": "DUREX Lubrifiants, condoms selectionnes",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "247796482",
+   "FIELD2": "I-REMOVE Aide e soutenir la gestion du poids",
+   "FIELD3": "69.99"
+ },
+ {
+   "FIELD1": "247796484",
+   "FIELD2": "ENERFORCE Produits naturels selectionnes",
+   "FIELD3": "12.99"
+ },
+ {
+   "FIELD1": "247796486",
+   "FIELD2": "LAX A DAY Laxatif en poudre",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "247796547",
+   "FIELD2": "ADVIL Ibuprofene liqui-gels",
+   "FIELD3": "10.99"
+ },
+ {
+   "FIELD1": "247796549",
+   "FIELD2": "IMODIUM Medicaments pour le soulagement de la diarrhee",
+   "FIELD3": "15.99"
+ },
+ {
+   "FIELD1": "247796551",
+   "FIELD2": "TYLENOL Acetaminophene 500 mg ultra efficace 120 comprimes, 325 mg facile e ouvrir 200 caplets, douleur musculaire 110 caplets, nuit extra fort 40 comprimes",
+   "FIELD3": "14.99"
+ },
+ {
+   "FIELD1": "247796553",
+   "FIELD2": "TYLENOL Acetaminophene",
+   "FIELD3": "10.99"
+ },
+ {
+   "FIELD1": "247796555",
+   "FIELD2": "TYLENOL EXTRA FORT Acetaminophene",
+   "FIELD3": "10.99"
+ },
+ {
+   "FIELD1": "247796557",
+   "FIELD2": "MOTRIN Ibuprophene",
+   "FIELD3": "10.99"
+ },
+ {
+   "FIELD1": "247796559",
+   "FIELD2": "ROBAXACET ROBAX PLATINE ROBAXISAL Relaxant musculaire",
+   "FIELD3": "10.99"
+ },
+ {
+   "FIELD1": "247796861",
+   "FIELD2": "LINDT Assortiments de chocolats",
+   "FIELD3": "3.49"
+ },
+ {
+   "FIELD1": "247796863",
+   "FIELD2": "LAURA SECORD Assortiments de chocolats",
+   "FIELD3": "2.49"
+ },
+ {
+   "FIELD1": "247796865",
+   "FIELD2": "Chocolats selectionnes",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "247796867",
+   "FIELD2": "RUSSELL STOVER, LAURA SECORD Boites de chocolats assortis",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "247796869",
+   "FIELD2": "LINDT Chocolats selectionnes",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "247796871",
+   "FIELD2": "GANONG Chocolat e la guimauve",
+   "FIELD3": "1"
+ },
+ {
+   "FIELD1": "247796873",
+   "FIELD2": "RUSSEL STOVER Chocolats selectionnes",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "247796875",
+   "FIELD2": "FERRERO Chocolats selectionnes",
+   "FIELD3": "5.5"
+ },
+ {
+   "FIELD1": "247796877",
+   "FIELD2": "LINDT EXCELLENCE, LINDOR Chocolats selectionnes",
+   "FIELD3": "5.5"
+ },
+ {
+   "FIELD1": "247796879",
+   "FIELD2": "COFFRET CADEAU PRESTIGE",
+   "FIELD3": "39.99"
+ },
+ {
+   "FIELD1": "247796881",
+   "FIELD2": "IBAR Barres de chocolats selectionnees",
+   "FIELD3": "2"
+ },
+ {
+   "FIELD1": "247796883",
+   "FIELD2": "HALLS Pastilles selectionnees",
+   "FIELD3": "2"
+ },
+ {
+   "FIELD1": "247796885",
+   "FIELD2": "OASIS Jus de fruits selectionnes",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "247796887",
+   "FIELD2": "EXCEL Bonbons selectionnes",
+   "FIELD3": "1.99"
+ },
+ {
+   "FIELD1": "247796889",
+   "FIELD2": "GODIVA Chocolats selectionnes",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "247796891",
+   "FIELD2": "HERSHEY'S Reglisses selectionnees",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "247796893",
+   "FIELD2": "McCAFe Cafe moulu",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "247796895",
+   "FIELD2": "VAN HOUTE Capsules de cafe",
+   "FIELD3": "17.99"
+ },
+ {
+   "FIELD1": "247796897",
+   "FIELD2": "NESCAFe Cafes selectionnes",
+   "FIELD3": "5.49"
+ },
+ {
+   "FIELD1": "247796899",
+   "FIELD2": "FOUR O'CLOCK Tisane",
+   "FIELD3": "7"
+ },
+ {
+   "FIELD1": "247796901",
+   "FIELD2": "Gommes DENTYNE en format individuel 12 mcx",
+   "FIELD3": "3"
+ },
+ {
+   "FIELD1": "247796903",
+   "FIELD2": "Tablettes CADBURY en format individuel",
+   "FIELD3": "0.99"
+ },
+ {
+   "FIELD1": "247796905",
+   "FIELD2": "MAYNARDS en petit",
+   "FIELD3": "1.99"
+ },
+ {
+   "FIELD1": "247796985",
+   "FIELD2": "TUMS Antiacides selectionnes",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "247796987",
+   "FIELD2": "PRINGLES Croustilles",
+   "FIELD3": "4"
+ },
+ {
+   "FIELD1": "247796989",
+   "FIELD2": "SELECTION Vaporisateur nasal",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "247796997",
+   "FIELD2": "FINISH Detergents pour lave-vaisselles selectionnes",
+   "FIELD3": "14.99"
+ },
+ {
+   "FIELD1": "247796999",
+   "FIELD2": "BON DePART Preparations selectionnees en poudre pour nourrissons",
+   "FIELD3": "21.99"
+ },
+ {
+   "FIELD1": "247797001",
+   "FIELD2": "SIMPLY KIDS Produits selectionnes",
+   "FIELD3": "15.99"
+ },
+ {
+   "FIELD1": "247797003",
+   "FIELD2": "NESTLe Bon Depart Produits selectionnes",
+   "FIELD3": "29.99"
+ },
+ {
+   "FIELD1": "247797005",
+   "FIELD2": "Enfamil A+ Produits selectionnes",
+   "FIELD3": "32.99"
+ },
+ {
+   "FIELD1": "247797007",
+   "FIELD2": "AVEENO Produits selectionnes",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "247797009",
+   "FIELD2": "SIMPLY KIDS Produits selectionnes",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "247797011",
+   "FIELD2": "SIMPLY KIDS Produits selectionnes",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "247797013",
+   "FIELD2": "La Mere Poule Produits selectionnes",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "247797015",
+   "FIELD2": "HEINZ Produits selectionnes",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "247797017",
+   "FIELD2": "HEINZ Produits selectionnes",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249094151",
+   "FIELD2": "NEUTROGENA PEAU SAINE, MOISTURE or NATURALS Facial Moisturizers",
+   "FIELD3": "13.99"
+ },
+ {
+   "FIELD1": "249094193",
+   "FIELD2": "AVEENO Cream",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249094286",
+   "FIELD2": "NIZORAL Anti-Dandruff Shampoo",
+   "FIELD3": "12.99"
+ },
+ {
+   "FIELD1": "249094332",
+   "FIELD2": "TYLENOL 325 mg Caplets or EZ Tabs (24)",
+   "FIELD3": "3.49"
+ },
+ {
+   "FIELD1": "249094382",
+   "FIELD2": "LE PETIT MARSEILLAIS Hand Cream (75 mL) or Body Wash (400 mL)",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249094429",
+   "FIELD2": "NEUTROGENA Facial Cleansers",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "249094481",
+   "FIELD2": "AVEENO Lotion",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "249094536",
+   "FIELD2": "LUBRIDERM Lotion",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "249094637",
+   "FIELD2": "AVEENO Body Wash",
+   "FIELD3": "12"
+ },
+ {
+   "FIELD1": "249094685",
+   "FIELD2": "BAND-AID SANS DOULEUR Antiseptic Wash",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249094848",
+   "FIELD2": "NEUTROGENA Rapid Wrinkle Repair Facial Moisturizers",
+   "FIELD3": "24.99"
+ },
+ {
+   "FIELD1": "249094904",
+   "FIELD2": "NEUTROGENA Cream",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249095006",
+   "FIELD2": "AVEENO Articles Baby Toiletries",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249095044",
+   "FIELD2": "BAND-AID GUeRISON AVANCeE (6 - 10) or FLEXI-CONTOUR (20 - 25) Bandages",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249095091",
+   "FIELD2": "TENA Protective Liners (48) or Pads",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "249095286",
+   "FIELD2": "SCOPE Rince-bouche Mouthwash (1 L), CREST 3D WHITE dentifrice Toothpaste (100 mL - 135 mL) or ORAL-B INDICATOR Toothbrush (2)",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249095399",
+   "FIELD2": "SALLY HANSEN INSTA-DRI Nail Enamel",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249095454",
+   "FIELD2": "DR. SCHOLL'S MASSAGING GEL TRI-COMFORT Insoles",
+   "FIELD3": "12.99"
+ },
+ {
+   "FIELD1": "249095511",
+   "FIELD2": "MISS VICKIE'S Chips",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249095562",
+   "FIELD2": "ROUGEMONT (8 x 200 mL) or MINUTE MAID (10 x 200 mL) Juice",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249095618",
+   "FIELD2": "COLGATE SENSITIVE Toothpaste (120 mL), 360e Battery Toothbrush (1) or Mouthwash (946 mL - 1 L)",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249095671",
+   "FIELD2": "RIMMEL LONDON WONDERFULLY REAL Mascara, OH MY GLOSS or LASTING FINISH Lipstick",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249095728",
+   "FIELD2": "CND VINYLUX Nail Enamel",
+   "FIELD3": "11.99"
+ },
+ {
+   "FIELD1": "249095785",
+   "FIELD2": "BABY DOVE Wipes (30), VASELINE Jelly (375g) or Q-TIPS Cotton Swabs (170 - 400)",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249095839",
+   "FIELD2": "ENERGIZER MAX AA Batteries",
+   "FIELD3": "14.99"
+ },
+ {
+   "FIELD1": "249095877",
+   "FIELD2": "TETLEY Tea (20 - 24), FOLGERS (200 g) or MAXWELL HOUSE (150 g) Instant Coffee",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249095938",
+   "FIELD2": "SENSODYNE Manual Toothbrush (1) or Toothpaste (75 mL - 100 mL)",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249095996",
+   "FIELD2": "PIXI Cosmetic Products",
+   "FIELD3": "10"
+ },
+ {
+   "FIELD1": "249096053",
+   "FIELD2": "HEAD & SHOULDERS Shampoo (400 mL), L'OReAL Styling or HERBAL ESSENCES BIO RENEW Hair Care Products",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249096165",
+   "FIELD2": "KELLOGG'S SPECIAL K Barres (125 g), RICE KRISPIES Squares (176 g) or PC Granola Bars",
+   "FIELD3": "1.99"
+ },
+ {
+   "FIELD1": "249096219",
+   "FIELD2": "TIM HORTONS (300 g), McCAFe (300 g - 340 g) Coffee or Selected Keurig Coffee Pods",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "249096271",
+   "FIELD2": "PC Soda or BLUE MENU Sparkling Water",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249096319",
+   "FIELD2": "CARNABY SWEET Candy",
+   "FIELD3": "4"
+ },
+ {
+   "FIELD1": "249096366",
+   "FIELD2": "PC SPECULOOS Cookie Butter (400 g), PURE Jam (500 mL)or BLUE MENU Peanut Butter (750 g)",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249096475",
+   "FIELD2": "LIFE BRAND Pads (12 - 24), Liners (34 - 60) or tampons (18 - 20)",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249096523",
+   "FIELD2": "PC AA Batteries",
+   "FIELD3": "9.79"
+ },
+ {
+   "FIELD1": "249096846",
+   "FIELD2": "TURBOIMPeT Logiciel d'impet edition de luxe 2017",
+   "FIELD3": "29.99"
+ },
+ {
+   "FIELD1": "249096893",
+   "FIELD2": "LANTIC Granulated Sugar",
+   "FIELD3": "1.99"
+ },
+ {
+   "FIELD1": "249096948",
+   "FIELD2": "COLGATE Mouthwash (236 mL - 250 mL), Dents Sensitive (90 mL) or OPTIC WHITE (70 mL - 140 mL) Toothpaste",
+   "FIELD3": "2.49"
+ },
+ {
+   "FIELD1": "249096998",
+   "FIELD2": "PC Natural Spring Water",
+   "FIELD3": "2"
+ },
+ {
+   "FIELD1": "249097049",
+   "FIELD2": "ROYALE (6) or KLEENEX (3 - 6) Facial Tissues",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249097104",
+   "FIELD2": "TOSTITOS Salsa (418 mL - 423 mL) or Tortilla Chips (215 g - 295 g)",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249097155",
+   "FIELD2": "NO NAME Paper Towels (6 Roll)",
+   "FIELD3": "2.49"
+ },
+ {
+   "FIELD1": "249097219",
+   "FIELD2": "COCA-COLA or PEPSI Beverages",
+   "FIELD3": "1.99"
+ },
+ {
+   "FIELD1": "249097270",
+   "FIELD2": "BOUNCE Sheets (120), TIDE Laundry Detergent (1,09 L) or DOWNY Fabric Softener (1,23 L - 1,53 L)",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249097412",
+   "FIELD2": "VERSACE WOMAN (30 mL), or GUESS MAN VERSACE WOMAN (30 mL), (50 mL) or GUESS MAN (75 mL)",
+   "FIELD3": "19.99"
+ },
+ {
+   "FIELD1": "249097460",
+   "FIELD2": "COCA-COLA or PEPSI Beverages",
+   "FIELD3": "3.49"
+ },
+ {
+   "FIELD1": "249097523",
+   "FIELD2": "RICOLA Herbal Cough Drops",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249097567",
+   "FIELD2": "TENA Protective Underwear",
+   "FIELD3": "11.99"
+ },
+ {
+   "FIELD1": "249097618",
+   "FIELD2": "PAMPERS Super Boxed Diapers or Training Pants",
+   "FIELD3": "22.99"
+ },
+ {
+   "FIELD1": "249097768",
+   "FIELD2": "PREFERENCE or ROOT RESCUE Hair Colour",
+   "FIELD3": "10.99"
+ },
+ {
+   "FIELD1": "249097933",
+   "FIELD2": "WHOLE BLENDS, ALBERTO or PANTENE Hair Care Products",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249098050",
+   "FIELD2": "MAYBELLINE NEW YORK LASH SENSATIONAL CURVITUDE Mascara or FIT ME Makeup Products",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "249098105",
+   "FIELD2": "L'OReAL HAIR EXPERTISE (750 mL), MARC ANTHONY or OGX Hair Care Products",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "249098162",
+   "FIELD2": "LAY'S Potato Chips",
+   "FIELD3": "1.99"
+ },
+ {
+   "FIELD1": "249098212",
+   "FIELD2": "MAXWELL HOUSE Cafe moulu Ground Coffee (925 g) or FOLGERS K-CUPe Coffee Pods (12)",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "249098266",
+   "FIELD2": "CAMPBELL'S Condensed Soup",
+   "FIELD3": "0.89"
+ },
+ {
+   "FIELD1": "249098321",
+   "FIELD2": "CHRISTIE Cookies or Crackers",
+   "FIELD3": "1.99"
+ },
+ {
+   "FIELD1": "249098380",
+   "FIELD2": "KELLOGG'S Cereals",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249098442",
+   "FIELD2": "GOLD SEAL or CLOVER LEAF Wild Pacific Red Sockeye Salmon",
+   "FIELD3": "3.49"
+ },
+ {
+   "FIELD1": "249098493",
+   "FIELD2": "INCOGNITO Serviettes Pads (14 - 24), Liners (22 - 50) or tampons (15)",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249098548",
+   "FIELD2": "TAMPAX Tampons (16 - 18), ALWAYS RADIANT Liners (48) or INFINITY Pads (14 - 18)",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249098598",
+   "FIELD2": "STUDIO LINE Styling or DOVE Hair Care Products",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "249098715",
+   "FIELD2": "GILLETTE PROSHIELD (4), MACH3 (8 - 12) or VENUS (6) Cartridges",
+   "FIELD3": "29.99"
+ },
+ {
+   "FIELD1": "249098771",
+   "FIELD2": "NIVEA Bar Soap (4 x 100 g), DOVE (354 mL - 400 mL) or NIVEA (500 mL) Body Wash",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249098828",
+   "FIELD2": "GILLETTE FUSION or VENUS Razor",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "249098877",
+   "FIELD2": "SOFTSOAP Liquid Soap (221 mL - 828 mL), SPEED STICK or DEGREE Antiperspirant/Deodorant (45 g - 85 g)",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249098934",
+   "FIELD2": "PINE-SOL Cleaning Products (828 mL) or PALMOLIVE Dish Soap (591 mL - 828 mL)",
+   "FIELD3": "1.99"
+ },
+ {
+   "FIELD1": "249098981",
+   "FIELD2": "PC (78) or NO NAME (126) Mouchoirs / Facial Tissues",
+   "FIELD3": "0.59"
+ },
+ {
+   "FIELD1": "249099031",
+   "FIELD2": "PC MAX or ROYALE TIGER Paper Towels",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249099083",
+   "FIELD2": "PC Bathroom Tissue",
+   "FIELD3": "4.79"
+ },
+ {
+   "FIELD1": "249099287",
+   "FIELD2": "TYLENOL Cold, Cold & Sinus Products (40) or BENYLIN Cough Syrup (250 mL)",
+   "FIELD3": "12.99"
+ },
+ {
+   "FIELD1": "249099345",
+   "FIELD2": "LIFE BRAND Cough & Cold Caplets (24) or Liquid (250 mL)",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "249099401",
+   "FIELD2": "SALINEX Nasal Spray",
+   "FIELD3": "13.99"
+ },
+ {
+   "FIELD1": "249099462",
+   "FIELD2": "BUCKLEY Syrup (150 mL) or Mixture (200 mL)",
+   "FIELD3": "10.99"
+ },
+ {
+   "FIELD1": "249099512",
+   "FIELD2": "LIFE BRAND Hot Lemon Relief Powder",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "249099567",
+   "FIELD2": "AERIUS (20) or CLARITIN (15 - 30) Allergy Tablets",
+   "FIELD3": "19.99"
+ },
+ {
+   "FIELD1": "249099614",
+   "FIELD2": "ROBAX PLATINE Caplets (18), ASPIRIN Daily Low Dose 81 mg (180) or Coated Tablets (100 - 120)",
+   "FIELD3": "14.99"
+ },
+ {
+   "FIELD1": "249099671",
+   "FIELD2": "NICODERM Timbres",
+   "FIELD3": "32.99"
+ },
+ {
+   "FIELD1": "249099740",
+   "FIELD2": "CLARITIN (85) or AERIUS (50 - 70) Allergy Tablets",
+   "FIELD3": "39.99"
+ },
+ {
+   "FIELD1": "249099799",
+   "FIELD2": "MOTRIN Tablets (90) or Liquid Gels (72)",
+   "FIELD3": "10.99"
+ },
+ {
+   "FIELD1": "249099856",
+   "FIELD2": "THRIVE Nicotine Replacement Gum Regular (108) or Extra Strength (96)",
+   "FIELD3": "34.99"
+ },
+ {
+   "FIELD1": "249099911",
+   "FIELD2": "REACTINE Allergy Tablets (48) or Liquid Gels (40)",
+   "FIELD3": "31.99"
+ },
+ {
+   "FIELD1": "249099969",
+   "FIELD2": "POLYSPORIN or Cream",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "249100016",
+   "FIELD2": "IMODIUM (10 - 12) or PEPCID (25) Products",
+   "FIELD3": "11.99"
+ },
+ {
+   "FIELD1": "249100079",
+   "FIELD2": "ELECTROLYTE Instant Mix Powder Sachets (8) or HEMOVEL Hemorrhoid Tablets (18)",
+   "FIELD3": "12.99"
+ },
+ {
+   "FIELD1": "249100138",
+   "FIELD2": "LIFE BRAND 1000 Vitamin B12 Tablets (100) or 250 mg caplets Magnesium Caplets (90)",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "249100360",
+   "FIELD2": "VEGA All-In-One Nutritional Shake Powder",
+   "FIELD3": "54.99"
+ },
+ {
+   "FIELD1": "249100415",
+   "FIELD2": "PRIORIN Hair Growth Capsules",
+   "FIELD3": "24.99"
+ },
+ {
+   "FIELD1": "249100470",
+   "FIELD2": "CLIF Barres",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "249100523",
+   "FIELD2": "LIFE BRAND Women's Formula Products",
+   "FIELD3": "15.99"
+ },
+ {
+   "FIELD1": "249100585",
+   "FIELD2": "TRICOVEL Hair Growth Tablets (30)",
+   "FIELD3": "29.99"
+ },
+ {
+   "FIELD1": "249100694",
+   "FIELD2": "ANTISTAX Tablets",
+   "FIELD3": "18.99"
+ },
+ {
+   "FIELD1": "249100808",
+   "FIELD2": "LIFE BRAND Bladder Support Products",
+   "FIELD3": "13.99"
+ },
+ {
+   "FIELD1": "249100861",
+   "FIELD2": "PREMIeRE RePONSE Pregnancy Test",
+   "FIELD3": "19.99"
+ },
+ {
+   "FIELD1": "249100919",
+   "FIELD2": "VAGISIL Feminine Wash (240 mL)",
+   "FIELD3": "7.49"
+ },
+ {
+   "FIELD1": "249100970",
+   "FIELD2": "BIOS Blood Pressure Monitor 8.0",
+   "FIELD3": "89.99"
+ },
+ {
+   "FIELD1": "249101061",
+   "FIELD2": "JAMIESON SOIN DIGESTIF Probiotic Capsules",
+   "FIELD3": "25.99"
+ },
+ {
+   "FIELD1": "249101111",
+   "FIELD2": "DR. SCHOLL'S For Her Insoles",
+   "FIELD3": "13.99"
+ },
+ {
+   "FIELD1": "249101340",
+   "FIELD2": "M&M's Bonbons Candy (176 g - 230 g) or NESTLe Chocolate (135 g - 215 g)",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249101397",
+   "FIELD2": "LAY'S STAX Chips, QUAKER Rice Cakes or CRISPY MINIS Rice Crisps",
+   "FIELD3": "4"
+ },
+ {
+   "FIELD1": "249101458",
+   "FIELD2": "ROYALE Bathroom Tissue",
+   "FIELD3": "10.99"
+ },
+ {
+   "FIELD1": "249101564",
+   "FIELD2": "FEBREZE CAR (2 mL), AIR EFFETS (250 g) or Small Spaces Air Fresheners",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249101618",
+   "FIELD2": "KERR'S (90 g - 200 g) or MAYNARDS (170 g - 185 g) Candy",
+   "FIELD3": "2.49"
+ },
+ {
+   "FIELD1": "249101671",
+   "FIELD2": "PANDA (170 g), CAPRICORN (200 g) Liquorice or PC Candy (200 g)",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249101729",
+   "FIELD2": "KELLOGG'S NUTRI GRAIN Bars (295 g) or POP TARTS (400 g)",
+   "FIELD3": "2.49"
+ },
+ {
+   "FIELD1": "249101784",
+   "FIELD2": "WAY BETTER Tortilla Chips",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249101839",
+   "FIELD2": "THE GOOD BEAN Chickpea Snacks",
+   "FIELD3": "4.49"
+ },
+ {
+   "FIELD1": "249101899",
+   "FIELD2": "VINTA (250 g), BRETON (225 g) or DARE Sans gluten Gluten Free (135 g) Crackers",
+   "FIELD3": "4"
+ },
+ {
+   "FIELD1": "249102010",
+   "FIELD2": "PC BIOLOGIQUE (454 g), STARBUCKS (340 g) KEURIG Coffee or Coffee Pods",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "249102067",
+   "FIELD2": "STARBUCKS Instant Coffee Sachets",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249102127",
+   "FIELD2": "PLEDGE Polish (275 g) or SWIFFER Household Cleaning Products",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249102188",
+   "FIELD2": "KLEENEX FRESH-ON-THE-GO (4), COTTONELLE (42) or WET ONES (28 - 40) Moist Wipes",
+   "FIELD3": "3.49"
+ },
+ {
+   "FIELD1": "249102299",
+   "FIELD2": "BOUNTY Paper Towels 2 Roll or WINDEX Cleaning Products",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249102355",
+   "FIELD2": "DRANO MAX (900 mL) VIM Household Cleaning Products (500 mL - 1 L)",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249102422",
+   "FIELD2": "SHOUT Stain Remover, FANTASTIK (650 mL) or SCRUBBING BUBBLES Cleaning Products",
+   "FIELD3": "3.49"
+ },
+ {
+   "FIELD1": "249102474",
+   "FIELD2": "SMARTIES (140 g), FERRERO ROCHER (89,5 g - 100 g) or KINDER SURPRISE (80 g - 100 g) Chocolate",
+   "FIELD3": "5.49"
+ },
+ {
+   "FIELD1": "249102525",
+   "FIELD2": "Selected Plush Characters",
+   "FIELD3": "14.99"
+ },
+ {
+   "FIELD1": "249102576",
+   "FIELD2": "REESE Chocolate (161 g) or HERSHEY'S KISSES (200 g)",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249102623",
+   "FIELD2": "KINDER SURPRISE (40 g) or LAURA SECORD (125 g) Chocolate",
+   "FIELD3": "3.49"
+ },
+ {
+   "FIELD1": "249102682",
+   "FIELD2": "Selected Easter Chocolate Singles",
+   "FIELD3": "3"
+ },
+ {
+   "FIELD1": "249102739",
+   "FIELD2": "CADBURY MINI EGGS",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249102788",
+   "FIELD2": "Selected Licensed Pop Card Kits",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249102842",
+   "FIELD2": "MERCI (250 g) or SMARTIES (300 g) Chocolate",
+   "FIELD3": "7.49"
+ },
+ {
+   "FIELD1": "249102891",
+   "FIELD2": "STOCK & BARREL Candy Hearts (325 g) or McCORMICKS Candy Bags (400 g)",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249102940",
+   "FIELD2": "CARNABY SWEET (175 g) or LINDT (40 g) Mini Chocolates",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249102998",
+   "FIELD2": "Selected Assorted Chocolate Hearts",
+   "FIELD3": "2.49"
+ },
+ {
+   "FIELD1": "249103055",
+   "FIELD2": "Selected Plush Characters",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "249103104",
+   "FIELD2": "Selected Plush Characters",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249103167",
+   "FIELD2": "Selected SQUISH-DEE-LISH Toys",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "249103216",
+   "FIELD2": "OREILLERS DE LA SAINT-VALENTIN",
+   "FIELD3": "12.99"
+ },
+ {
+   "FIELD1": "249103274",
+   "FIELD2": "Valentine Plush Throw and Cushion Set",
+   "FIELD3": "16.99"
+ },
+ {
+   "FIELD1": "249103578",
+   "FIELD2": "PC Facial Tissues (65) Flushable Wipes or Refills (42)",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249103628",
+   "FIELD2": "JOE FRESH Lipstick",
+   "FIELD3": "6"
+ },
+ {
+   "FIELD1": "249103677",
+   "FIELD2": "PC Beverages",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249103729",
+   "FIELD2": "PC Ready-To-Eat Popcorn",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249103774",
+   "FIELD2": "NO NAME Garbage Bags",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249103826",
+   "FIELD2": "NO NAME Disinfecting Wipes (35)or Household Cleaning Products",
+   "FIELD3": "2.49"
+ },
+ {
+   "FIELD1": "249103872",
+   "FIELD2": "NO NAME Cat Litter",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249103928",
+   "FIELD2": "NO NAME (950 mL) or PC (638 mL - 739 mL) Detergent Dish Soap",
+   "FIELD3": "1.99"
+ },
+ {
+   "FIELD1": "249103977",
+   "FIELD2": "PC Antistatic Spray (156 g), Stain Remover (650 mL) or Fabric Softener Sheets (70)",
+   "FIELD3": "3.49"
+ },
+ {
+   "FIELD1": "249104027",
+   "FIELD2": "PC NUTRITION PREMIeRE (85 g) or EXTRA VIANDE (85 g - 156 g) Wet Cat Food",
+   "FIELD3": "4"
+ },
+ {
+   "FIELD1": "249104077",
+   "FIELD2": "NO NAME Aluminum Foil (25 pi) or Plastic Wrap (30 m)",
+   "FIELD3": "1.29"
+ },
+ {
+   "FIELD1": "249104134",
+   "FIELD2": "PC Freezer Bags",
+   "FIELD3": "3.49"
+ },
+ {
+   "FIELD1": "249104234",
+   "FIELD2": "PC Soft Baked Cookies or Greek Yogurt Bars",
+   "FIELD3": "2.49"
+ },
+ {
+   "FIELD1": "249104294",
+   "FIELD2": "PC Protein (148 g) or Fibre (150 g) Bars",
+   "FIELD3": "2.49"
+ },
+ {
+   "FIELD1": "249104344",
+   "FIELD2": "NO NAME Crispy Rice Squares (176 g) or PC BIOLOGIQUE Snack Crackers (200 g)",
+   "FIELD3": "1.99"
+ },
+ {
+   "FIELD1": "249104402",
+   "FIELD2": "PC LE DeCADENT Cookies",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249104446",
+   "FIELD2": "PC Sparkling Water",
+   "FIELD3": "2"
+ },
+ {
+   "FIELD1": "249104492",
+   "FIELD2": "PC BIOLOGIQUE Lemonade (946 mL) or Water Enhancers (48 mL)",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249104544",
+   "FIELD2": "PC Loads Of or World Of Flavours Chips (200 g)",
+   "FIELD3": "4"
+ },
+ {
+   "FIELD1": "249104598",
+   "FIELD2": "NO NAME Trail Mix (750 g - 1 kg) or PC Cashews (275 g)",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "249104640",
+   "FIELD2": "PC Chocolate Bars",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249104700",
+   "FIELD2": "PC (225 g) BLUE MENU Natural Almonds (275 g) or Roasted Almonds (300 g)",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "249104745",
+   "FIELD2": "PC Deluxe Mixed Nuts, Roasted Cashews (200 g) or Praline Pecans (275 g)",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "249104799",
+   "FIELD2": "PC Chocolate Chips (300 g), Buttermilk Pancake Mix (905 g) or NO NAME Marshmallows (400 g)",
+   "FIELD3": "4"
+ },
+ {
+   "FIELD1": "249104849",
+   "FIELD2": "PC Praline Nut Mix (275 g), Chocolate Covered Peanuts (400 g) or Almonds (170 g)",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249104912",
+   "FIELD2": "PC Real Fruit Jellies",
+   "FIELD3": "3.29"
+ },
+ {
+   "FIELD1": "249104968",
+   "FIELD2": "PC 100% Pure Maple Syrup (500 mL) or 100 % Virgin Coconut Oil (860 mL)",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "249105017",
+   "FIELD2": "QUO Makeup Products",
+   "FIELD3": "10"
+ },
+ {
+   "FIELD1": "249105068",
+   "FIELD2": "JOE FRESH Sponges or Implements",
+   "FIELD3": "2"
+ },
+ {
+   "FIELD1": "249105126",
+   "FIELD2": "JOE FRESH LASH LIFT Mascara or Waterproof Eyeliner",
+   "FIELD3": "6"
+ },
+ {
+   "FIELD1": "249105184",
+   "FIELD2": "QUO Lip or Eye Products",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249105242",
+   "FIELD2": "JOE FRESH Cream to Powder Foundation or Liquid Foundation",
+   "FIELD3": "6"
+ },
+ {
+   "FIELD1": "249105297",
+   "FIELD2": "PC Slim Can Sparkling Water",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249105356",
+   "FIELD2": "ESSENCE Cosmetic Products or Nail Enamel",
+   "FIELD3": "1.99"
+ },
+ {
+   "FIELD1": "249105565",
+   "FIELD2": "GRADE \"A\" Large White Eggs",
+   "FIELD3": "1.88"
+ },
+ {
+   "FIELD1": "249105612",
+   "FIELD2": "BOISSONS eNERGISANTES EN FORMAT INDIVIDUEL SeLECTIONNeES",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249105670",
+   "FIELD2": "SAPUTO MOZZARELLISSIMA Cheese",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "249105721",
+   "FIELD2": "PURE LEAF Iced Tea (1.75 L), TROPICANA Juice or cocktails (1.65 L - 1.75 L)",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249105779",
+   "FIELD2": "PC Greek Yogurt Tzatziki Dip (227 g), NO NAME Cream Cheese (250 g) or BECEL margarine (454 g)",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249105839",
+   "FIELD2": "MAPLE LEAF (375 g) or PC (500 g) Bacon",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249105895",
+   "FIELD2": "NUTRILAIT Whipping (473 mL) or Coffee (1 L) Cream",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249105961",
+   "FIELD2": "SILK Beverages (1,89 L), NUTRILAIT Lactose Free Milk or PC BIOLOGIQUE Milk (2 L)",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249106017",
+   "FIELD2": "NATUR-A or PC BIOLOGIQUE Beverages",
+   "FIELD3": "4"
+ },
+ {
+   "FIELD1": "249106072",
+   "FIELD2": "PACT Cranberry Flavoured Water (473 mL), TROPICANA (355 mL) or SIMPLY (340 mL) Beverages",
+   "FIELD3": "3"
+ },
+ {
+   "FIELD1": "249106121",
+   "FIELD2": "NUTRILAIT Chocolate Milk",
+   "FIELD3": "1.49"
+ },
+ {
+   "FIELD1": "249106176",
+   "FIELD2": "PC Large Free Run Eggs (1 Dozen) or INTERNATIONAL DELIGHT Coffee Creamer (946 mL)",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249106237",
+   "FIELD2": "KRAFT SINGLES (24) or CRACKER BARREL Slices (12)",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249106291",
+   "FIELD2": "NO NAME Butter",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249106345",
+   "FIELD2": "SAPUTO Cheddar (270 g) or mozzarella (300 g - 340 g) Cheese",
+   "FIELD3": "7"
+ },
+ {
+   "FIELD1": "249106398",
+   "FIELD2": "DANONE ACTIVIA Yogourt Tubs (650 g) or YO CRUNCH (2 x 143 g) Yogurt",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249106449",
+   "FIELD2": "HERSHEY'S CHIPITS (270 g), PC Squeezable Toppings (428 mL) or AUNT JEMIMA Pancake Mix (905 g)",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249106521",
+   "FIELD2": "VITA COCO Coconut Water",
+   "FIELD3": "4"
+ },
+ {
+   "FIELD1": "249106579",
+   "FIELD2": "SAPUTO Shredded Cheese (320 g), NO NAME (16) or ARMSTRONG (10)Cheese Snacks",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249106641",
+   "FIELD2": "BISQUICK Mix CREAM OF WHEAT or QUAKER Instant Oatmeal",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249106706",
+   "FIELD2": "LES FERMES CAVENDISH (750 g), McCAIN (900 g) or KELLOGG'S EGGO Waffles (8)",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249106766",
+   "FIELD2": "AQUAFINA Water (1 L) or PEPSI Beverages (591 mL)",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249106821",
+   "FIELD2": "PC Rolled Quick Oats (1 kg), MENU GRANOLA BOOST (325 g) or PC Cereals",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249106872",
+   "FIELD2": "NUTELLA & GO! (4), PC MENU Almond Butter (340 g) or Peanut Butter (1 kg)",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249106927",
+   "FIELD2": "HYGRADE Garlic Bologna",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "249106977",
+   "FIELD2": "MUSCLE MLK Protein Drink (414 mL) or NAKED smoothies (450 mL)",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249107171",
+   "FIELD2": "CAMPBELL'S Ready To Serve (540 mL) or HABITANT (796 mL) Soups",
+   "FIELD3": "1.99"
+ },
+ {
+   "FIELD1": "249107224",
+   "FIELD2": "STAGG Chili (425 g), LIPTON Soup (4) or CORDON BLEU Meatballs (410 g)",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249107285",
+   "FIELD2": "STOUFFER'S SENSATIONS (640 g) or DELISSIO Rising Crust Frozen Pizza",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249107353",
+   "FIELD2": "PILLSBURY PIZZA POPS",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249107398",
+   "FIELD2": "STOUFFER'S Genre Homestyle Frozen Entrees",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249107449",
+   "FIELD2": "PC Meatballs (907 g) or ST. HUBERT Chicken Wings",
+   "FIELD3": "11.99"
+ },
+ {
+   "FIELD1": "249107505",
+   "FIELD2": "BREYERS Classique / Classic (1,66 L) or POPSICLE barres glacees Novelty Bars",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249107552",
+   "FIELD2": "EUROPE'S BEST Frozen Fruit (500 g - 600 g), PC Ice Cream (1.5 L) or Premium Ice Cream Bars (4)",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249107609",
+   "FIELD2": "CLOVER LEAF Smoked Mussels (85 g),PC BLUE MENU Pink Salmon (213 g) or White Tuna (170 g)",
+   "FIELD3": "1.99"
+ },
+ {
+   "FIELD1": "249107662",
+   "FIELD2": "CAMPBELL'S Broth (900 mL), NO NAME Rice (900 g) or MINUTE RICE (250 g)",
+   "FIELD3": "4"
+ },
+ {
+   "FIELD1": "249107718",
+   "FIELD2": "HEREFORD Corned Beef (340 g), BECEL Oil (1 L) or OLD EL PASO Dinner Kits",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249107775",
+   "FIELD2": "UNCLE BEN'S Side Dish (165 g), KNORR LIPTON CUP-A-SOUP (4) or SIDEKICKS",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249107830",
+   "FIELD2": "CLASSICO Pasta Sauce",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249107890",
+   "FIELD2": "NO NAME or PC Pasta",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249107944",
+   "FIELD2": "PC MENU Canned Beans (540 mL), NO NAME Tuna (170 g) or Canned Vegetables",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249107991",
+   "FIELD2": "CATELLI Gluten Free Pasta (340 g) or PC Pasta Sauce",
+   "FIELD3": "2.49"
+ },
+ {
+   "FIELD1": "249108042",
+   "FIELD2": "BULL'S EYE BBQ Sauce (425 mL), UNICO Kalamata Olives (375 mL) or KRAFT Salad Dressing (475 mL)",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249108104",
+   "FIELD2": "EUROPE'S BEST Frozen Vegetables (500 g) or PC Frozen Entrees",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249108154",
+   "FIELD2": "PC Pizza Thin Crust Frozen Pizza, MARKETPLACE CUISINE or HUNGRY-MAN Frozen Entrees",
+   "FIELD3": "7"
+ },
+ {
+   "FIELD1": "249108214",
+   "FIELD2": "BICK'S Pickles (1 L), FRANK'S RED HOT sauce (354 mL) or HEINZ ketchup (750 mL - 1 L)",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249108265",
+   "FIELD2": "PC Chicken Nuggets or strips",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249108321",
+   "FIELD2": "HIGH LINER Fish Sticks (700 g) or Skillet Meals",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249108364",
+   "FIELD2": "MICHELINA'S Frozen Entrees",
+   "FIELD3": "3"
+ },
+ {
+   "FIELD1": "249108421",
+   "FIELD2": "XBOX ONE X 1TB Console",
+   "FIELD3": "600.79"
+ },
+ {
+   "FIELD1": "249108483",
+   "FIELD2": "Beats by Dr Dre BEATS EP Headphones",
+   "FIELD3": "100.24"
+ },
+ {
+   "FIELD1": "249108535",
+   "FIELD2": "XBOX ONE S 1TB Console with GEARS OF WAR 4",
+   "FIELD3": "380.79"
+ },
+ {
+   "FIELD1": "249108587",
+   "FIELD2": "SAMSUNG GALAXY TAB E LITE 7\" 8GB Tablet",
+   "FIELD3": "110.89"
+ },
+ {
+   "FIELD1": "249108636",
+   "FIELD2": "CANON POWERSHOT ELPH360 HS Camera",
+   "FIELD3": "270.24"
+ },
+ {
+   "FIELD1": "249108862",
+   "FIELD2": "QUO by ORLY COLOR AMP'D, BREATHABLE Or MEGA PIXEL Nail Enamel",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "249108905",
+   "FIELD2": "QUO Nail Polish Remover",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249109018",
+   "FIELD2": "QUO Tampons Luxury Rounds",
+   "FIELD3": "3"
+ },
+ {
+   "FIELD1": "249109124",
+   "FIELD2": "SECRET COLLECTION SOLUTIONS DU STYLE Accessories",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249109173",
+   "FIELD2": "LIFE BRAND Face Masks",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249109225",
+   "FIELD2": "MASQUE BAR by LOOK BEAUTY Face Masks",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "249109267",
+   "FIELD2": "JOE FRESH Jewellery",
+   "FIELD3": "10"
+ },
+ {
+   "FIELD1": "249109437",
+   "FIELD2": "BEING by SANCTUARY SPA Bath Products",
+   "FIELD3": "10"
+ },
+ {
+   "FIELD1": "249109491",
+   "FIELD2": "SPA by BON VITAL",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "249109547",
+   "FIELD2": "BOURJOIS TWIST UP Mascara or Express Eye Makeup Remover",
+   "FIELD3": "18"
+ },
+ {
+   "FIELD1": "249109613",
+   "FIELD2": "KORRES S Skin Care Products",
+   "FIELD3": "16"
+ },
+ {
+   "FIELD1": "249109667",
+   "FIELD2": "LIFE BRAND Glycerine Soap",
+   "FIELD3": "2.69"
+ },
+ {
+   "FIELD1": "249109721",
+   "FIELD2": "JOE FRESH Watches",
+   "FIELD3": "14"
+ },
+ {
+   "FIELD1": "249109777",
+   "FIELD2": "LIFE BRAND Foam Bath",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249109831",
+   "FIELD2": "LIFE BRAND Dental Piks or Flossers",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249109886",
+   "FIELD2": "LIFE BRAND KIDS Shampoo",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249109932",
+   "FIELD2": "LIFE BRAND Pain Coconut Scrub Bar Soap (4 x 110 g) Liquid Soap Refills (2 L) or gel-douche Body Wash (354 mL - 710 mL)",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249109978",
+   "FIELD2": "LIFE BRAND Angle Head Toothbrush (2) or Floss",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249110083",
+   "FIELD2": "LIFE BRAND Razor (1) or Cartridges (4)",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "249110247",
+   "FIELD2": "LIFE BRAND Disposable Razors",
+   "FIELD3": "7.49"
+ },
+ {
+   "FIELD1": "249110301",
+   "FIELD2": "LIFE BRAND Shampooing 2 in 1 (500 mL) or Herbal (300 mL) Shampoo",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249110357",
+   "FIELD2": "LIFE BRAND Anti-Dandruff Shampoo",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249110403",
+   "FIELD2": "LIFE BRAND Pads (24 - 48), Liners (105 - 135) or tampons (36 - 40)",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249110456",
+   "FIELD2": "LIFE BRAND Hair Gel",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249110504",
+   "FIELD2": "ICE CREAM Colorants Hair Colour",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "249110552",
+   "FIELD2": "BOUTIQUE by CONAIR 1\" Curling Wand, 3 in 1 Styling System or Ceramic Jade Dryer",
+   "FIELD3": "69.99"
+ },
+ {
+   "FIELD1": "249110604",
+   "FIELD2": "PC (250 mL) or LIFE BRAND (236 mL - 340 mL) Hand Soap",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249110657",
+   "FIELD2": "PC Foaming Hand Soap (225 mL) or LIFE BRAND Hand Sanitizer (236 mL)",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249110705",
+   "FIELD2": "LIFE BRAND Body Wash",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249110948",
+   "FIELD2": "PURELL Assainisseur pour les mains Hand Sanitizer (236 mL), LADY SPEED STICK (65 g)or MITCHUM (76 g - 96 g) Antiperspirant/Deodorant",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249110998",
+   "FIELD2": "BANANA BOAT or HAWAIIAN TROPIC Sun Care Products",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "249111091",
+   "FIELD2": "GILLETTE SENSOR 5 (2), MACH3 (3) or VENUS (2 - 3) Disposable Razors",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "249111142",
+   "FIELD2": "GILLETTE SATIN CARE or SERIES Shave Gel",
+   "FIELD3": "5"
+ },
+ {
+   "FIELD1": "249111201",
+   "FIELD2": "POLYSPORIN Sore Patches (15) or ABREVA Cold Sore Treatment (2 g)",
+   "FIELD3": "20.99"
+ },
+ {
+   "FIELD1": "249111249",
+   "FIELD2": "LISTERINE POCKETPAKS (3 x 24) or Mouthwash (1 L - 1,5 L)",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "249111303",
+   "FIELD2": "DOVE Bar Soap (2 x 113 g), NIVEA Antiperspirant/Deodorant (50 mL) or Stick (43 g)",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249111356",
+   "FIELD2": "BAN ROLL-ON Deodorant (100 mL),DIAL Bar Soap (6 - 8) or Body Wash (473 mL)",
+   "FIELD3": "4.49"
+ },
+ {
+   "FIELD1": "249111418",
+   "FIELD2": "METHOD Hand Soap (300 mL - 354 mL), DEGREE (76 g) or ADIDAS (45 g) Deodorant",
+   "FIELD3": "8"
+ },
+ {
+   "FIELD1": "249111473",
+   "FIELD2": "ARRID (75 mL) or or OMBRA (50 mL) Roll-On Antiperspirant/ Deodorant",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249111525",
+   "FIELD2": "OLAY Body Wash (650 mL), SECRET or GILLETTE Clinical Antiperspirant/Deodorant",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "249111585",
+   "FIELD2": "OGX Gel-douche Body Wash (577 mL) or LADY SPEED STICK Clinical Antiperspirant/Deodorant (45 g)",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "249111635",
+   "FIELD2": "VASELINE Skin Care Products",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "249111679",
+   "FIELD2": "KERI Lotion (443 mL), POND'S (200 g) or NOXZEMA (334 mL) Cream",
+   "FIELD3": "6.99"
+ },
+ {
+   "FIELD1": "249111716",
+   "FIELD2": "BELLE COLOR Hair Colour",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249111864",
+   "FIELD2": "AVEENO Lotion (532 mL), NEUTROGENA or AVEENO Sun Care Products",
+   "FIELD3": "13.99"
+ },
+ {
+   "FIELD1": "249111920",
+   "FIELD2": "JERGENS Lotion (775 mL), O'KEEFFE'S WORKING HANDS (85 g - 198 g) or JERGENS (120 mL - 220 mL) Cream",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "249111974",
+   "FIELD2": "BIO-OIL Skin Treatment (200 mL) or ZAX'S Eye Cream (28 g)",
+   "FIELD3": "24.99"
+ },
+ {
+   "FIELD1": "249112029",
+   "FIELD2": "COLOR CRAVE or PERFECT 10 Hair Colour",
+   "FIELD3": "12.99"
+ },
+ {
+   "FIELD1": "249112066",
+   "FIELD2": "GILLETTE SIMPLY VENUS, CUSTOM PLUS or SENSOR Disposable Razors",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "249112169",
+   "FIELD2": "TAMPAX Tampons (40), ALWAYS Pads (20 - 48) or Liners (68 - 120)",
+   "FIELD3": "8.49"
+ },
+ {
+   "FIELD1": "249112215",
+   "FIELD2": "SKINTIMATE or EDGE Gels Shave Gel",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249112304",
+   "FIELD2": "O.B. (18), PLAYTEX SPORT (18) or GENTLE GLIDE (18 - 20) Tampons",
+   "FIELD3": "4.49"
+ },
+ {
+   "FIELD1": "249112355",
+   "FIELD2": "ORAL-B CROSS ACTION Battery Toothbrush (1) or CREST PRO Mouthwash (946 mL)",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "249112397",
+   "FIELD2": "ARM & HAMMER Dentifrices Toothpaste",
+   "FIELD3": "4"
+ },
+ {
+   "FIELD1": "249112496",
+   "FIELD2": "ORAL-B Manual Toothbrush (1), SCOPE Mouthwash (1 L) or CREST 3D WHITE Toothpaste (90 mL)",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249112549",
+   "FIELD2": "POLIGRIP Denture Cream (40 g) or POLIDENT Denture Tablets (32 - 40)",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249112596",
+   "FIELD2": "LIFE BRAND Mouthwash",
+   "FIELD3": "3.49"
+ },
+ {
+   "FIELD1": "249112647",
+   "FIELD2": "CREST WHITESTRIPS (10), ORAL-B VITALITY Toothbrush (1)or Refills (3)",
+   "FIELD3": "21.99"
+ },
+ {
+   "FIELD1": "249112681",
+   "FIELD2": "ORAL-B PRO Battery Toothbrush or CREST 2 Step Whitening System",
+   "FIELD3": "12.99"
+ },
+ {
+   "FIELD1": "249112722",
+   "FIELD2": "THE DOCTOR'S NIGHTGUARD",
+   "FIELD3": "32.99"
+ },
+ {
+   "FIELD1": "249112758",
+   "FIELD2": "GARNIER NUTRISSE Hair Colour",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "249113043",
+   "FIELD2": "VIVA LA JUICY Eau de parfum",
+   "FIELD3": "112"
+ },
+ {
+   "FIELD1": "249113139",
+   "FIELD2": "DR. ROEBUCK'S Serum",
+   "FIELD3": "70"
+ },
+ {
+   "FIELD1": "249113186",
+   "FIELD2": "PeR SCULPT A BROW Medium",
+   "FIELD3": "38"
+ },
+ {
+   "FIELD1": "249113234",
+   "FIELD2": "CALVIN KLEIN ONE GOLD Spray",
+   "FIELD3": "80"
+ },
+ {
+   "FIELD1": "249113273",
+   "FIELD2": "VERA WANG PRINCESS NOIR Eau de toilette",
+   "FIELD3": "49"
+ },
+ {
+   "FIELD1": "249113350",
+   "FIELD2": "NYX SUPER CLIQUEY Lip or POWDER PUFF Powder Lip Cream",
+   "FIELD3": "10.99"
+ },
+ {
+   "FIELD1": "249113390",
+   "FIELD2": "PANTENE or MAUI MOISTURE Hair Care Products",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "249113417",
+   "FIELD2": "L'OReAL EVER Shampoo, Conditioner or Hair Styling Products",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "249113452",
+   "FIELD2": "COVERGIRL MELTING POUT GLITZ Lip Colour",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "249113480",
+   "FIELD2": "COVERGIRL PEACOCK FLARE Mascara or Eyeliner",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "249113600",
+   "FIELD2": "MAYBELLINE NEW YORK BIG SHOT Mascara or SUPER STAY MATTE INK",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "249113639",
+   "FIELD2": "RIMMEL LONDON MAGNIF'EYES SHADOW Palette or INSTA FLAWLESS Primer",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "249113678",
+   "FIELD2": "SALLY HANSEN Nail Treatments",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "249113717",
+   "FIELD2": "SALLY HANSEN COMPLETE SALON MANICURE or L'OReAL Nail Enamel",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "249113755",
+   "FIELD2": "ESSIE GEL COUTURE Nail Enamel",
+   "FIELD3": "11.99"
+ },
+ {
+   "FIELD1": "249113787",
+   "FIELD2": "FRUCTIS (621 mL - 650 mL), GLISS (400 mL), HERBAL ESSENCES (700 mL) Shampoo or Conditioner",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "249113816",
+   "FIELD2": "JOHN FRIEDA FRIZZ Serum (50 mL), L'OReAL EVER or KLORANE soins capillaires Hair Care Products",
+   "FIELD3": "12.99"
+ },
+ {
+   "FIELD1": "249113846",
+   "FIELD2": "SENSATIONAIL or REVLON Faux Nails",
+   "FIELD3": "11.99"
+ },
+ {
+   "FIELD1": "249113900",
+   "FIELD2": "AXE Shampoo (355 mL), FRUCTIS capillaires Hair Care Products",
+   "FIELD3": "5.99"
+ },
+ {
+   "FIELD1": "249113963",
+   "FIELD2": "VICHY MINeRAL 89 Skin Fortifying Daily Booster",
+   "FIELD3": "39.95"
+ },
+ {
+   "FIELD1": "249114001",
+   "FIELD2": "ELIZABETH ARDEN Skin Care Products",
+   "FIELD3": "83"
+ },
+ {
+   "FIELD1": "249114035",
+   "FIELD2": "BIODERMA Makeup Remover",
+   "FIELD3": "13.95"
+ },
+ {
+   "FIELD1": "249114066",
+   "FIELD2": "IDC BOOST ENERGY",
+   "FIELD3": "59.99"
+ },
+ {
+   "FIELD1": "249114160",
+   "FIELD2": "NO BLEEDING LIPS Secret Liner or NO THIN LIPS repulpeur gel Secret Lip Plumper",
+   "FIELD3": "14.99"
+ },
+ {
+   "FIELD1": "249114190",
+   "FIELD2": "VICHY Skin Care Kits",
+   "FIELD3": "39.95"
+ },
+ {
+   "FIELD1": "249114253",
+   "FIELD2": "LOTUS Massage Oil",
+   "FIELD3": "13"
+ },
+ {
+   "FIELD1": "249114486",
+   "FIELD2": "HUGGIES Jumbo Baby Wipes, Diapers or Training Pants",
+   "FIELD3": "11.99"
+ },
+ {
+   "FIELD1": "249114520",
+   "FIELD2": "NESTLe BON DePART Infant Formula",
+   "FIELD3": "27.99"
+ },
+ {
+   "FIELD1": "249114549",
+   "FIELD2": "GILLETTE FUSION 5 PROSHIELD or VENUS SWIRL Razor",
+   "FIELD3": "13.99"
+ },
+ {
+   "FIELD1": "249114577",
+   "FIELD2": "NIVEA Hand Cream (75 mL - 100 mL), VASELINE (295 mL) or ST. IVES (600 mL) lotion",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249114607",
+   "FIELD2": "GILLETTE, SECRET or OLD SPICE Invisible Spray",
+   "FIELD3": "10"
+ },
+ {
+   "FIELD1": "249114633",
+   "FIELD2": "SCHICK HYDRO 5 GROOMER (1), (4) or INTUITION (3) Cartridges",
+   "FIELD3": "12.99"
+ },
+ {
+   "FIELD1": "249114663",
+   "FIELD2": "SUNLIGHT Laundry Pacs (14), SNUGGLE Scent Boosters (30) or Fabric Softener (1,47 L)",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249114686",
+   "FIELD2": "DENTYNE, TRIDENT or EXCEL Bottle Gum",
+   "FIELD3": "3.79"
+ },
+ {
+   "FIELD1": "249114711",
+   "FIELD2": "ARTO LIFE Water (1 L), GOLD PEAK (547 mL) or PURE LEAF TEA HOUSE COLLECTION (414 mL) Iced Tea",
+   "FIELD3": "3"
+ },
+ {
+   "FIELD1": "249114742",
+   "FIELD2": "Selected Single Serve Chocolate Bars or Gum",
+   "FIELD3": "3.99"
+ },
+ {
+   "FIELD1": "249114780",
+   "FIELD2": "LINDT CREATION or EXCELLENCE Chocolate Bars (100 g)",
+   "FIELD3": "6"
+ },
+ {
+   "FIELD1": "249114809",
+   "FIELD2": "BETTY CROCKER Kids Snacks, GOLDFISH Crackers or VAL NATURE Bars",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249114836",
+   "FIELD2": "AXE Dry Spray (107 g) or Stick Antiperspirant/Deodorant (76 g)",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249114864",
+   "FIELD2": "JOHN FRIEDA Hair Care Products",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "249114892",
+   "FIELD2": "NATURAL INSTINCTS, NICE'N EASY BASE or RETOUCHE-REPOUSSE Hair Colour",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "249114915",
+   "FIELD2": "DOVE or DEGREE Dry Sprays",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249114935",
+   "FIELD2": "AXE Body Wash (473 mL) or Spray (113 g)",
+   "FIELD3": "10"
+ },
+ {
+   "FIELD1": "249114985",
+   "FIELD2": "NIVEA Q10 Facial Moisturizers",
+   "FIELD3": "16.99"
+ },
+ {
+   "FIELD1": "249115018",
+   "FIELD2": "BATISTE Shampooing sec Dry Shampoo (200 mL) or Treatment Products",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "249115045",
+   "FIELD2": "OLAY CLASSIQUE Facial Cleansers",
+   "FIELD3": "7.99"
+ },
+ {
+   "FIELD1": "249115070",
+   "FIELD2": "L'OReAL Tangle Tamer (265mL) or FRUCTIS Hair Care Products",
+   "FIELD3": "2.99"
+ },
+ {
+   "FIELD1": "249115118",
+   "FIELD2": "L'OReAL HAIR EXPERTISE Shampoo or Conditioner",
+   "FIELD3": "4.99"
+ },
+ {
+   "FIELD1": "249115167",
+   "FIELD2": "COLORISTA Colorant Hair Colour or spray 1 Day Colour Spray",
+   "FIELD3": "13.99"
+ },
+ {
+   "FIELD1": "249115205",
+   "FIELD2": "BOOST Meal Replacement Shakes",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "249115228",
+   "FIELD2": "EXCELLENCE, COLOR ULTeME or ROOT COVER UP Hair Colour",
+   "FIELD3": "13.99"
+ },
+ {
+   "FIELD1": "249115279",
+   "FIELD2": "ALIGN Probiotic Capsules (28) or Chewable Tablets (24)",
+   "FIELD3": "29.99"
+ },
+ {
+   "FIELD1": "249115301",
+   "FIELD2": "LIFE BRAND Heat Wraps",
+   "FIELD3": "8.99"
+ },
+ {
+   "FIELD1": "249115320",
+   "FIELD2": "COLGATE Sensitive Toothpaste (75 mL), 360e Manual Toothbrush (1) or Mouthwash (250 mL)",
+   "FIELD3": "3.49"
+ },
+ {
+   "FIELD1": "249115339",
+   "FIELD2": "AVEENO Facial Cleansers",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "249115358",
+   "FIELD2": "OLAY CLASSIQUE Facial Moisturizers, GOLDBOND lotion (368 mL - 400 mL) or SPECTRO Acne Care Products",
+   "FIELD3": "9.99"
+ },
+ {
+   "FIELD1": "249115375",
+   "FIELD2": "AVeNE TOLeRANCE EXTReME Sets",
+   "FIELD3": "28.5"
+ },
+ {
+   "FIELD1": "249115397",
+   "FIELD2": "LA ROCHE-POSAY LIPIKAR AP+ Ensembles pour Winter Animation Kits",
+   "FIELD3": "34"
+ },
+ {
+   "FIELD1": "249115418",
+   "FIELD2": "NEOSTRATA Oil Free Cleanser",
+   "FIELD3": "22"
+ },
+ {
+   "FIELD1": "249115434",
+   "FIELD2": "REVERSA Smoothing Body Lotion Duo",
+   "FIELD3": "39.95"
+ },
+ {
+   "FIELD1": "249115452",
+   "FIELD2": "URIAGE Lipstick Kit",
+   "FIELD3": "9.95"
+ }
+]
+
+
+
+
+
+
